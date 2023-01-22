@@ -1,0 +1,117 @@
+
+*{
+    margin: 0px;
+    padding: 0px;   
+    font-family: sans-serif;
+}
+
+.picture{
+    width: 38.62vw;
+    margin-top: -439px;
+} 
+
+.text-1,text-2{
+    font-size: 1.4rem;
+    margin-left: -50px;
+    line-height: 35px;
+}
+
+.text-2{
+    font-size: 1.2rem;
+    margin-top: 30px;
+    margin-left: -65px;
+}
+
+
+.pic{
+    height: 100vh;
+}
+.logo{
+    height: auto;
+    background-color: #327a56;
+    position: relative; 
+    top: 30vh;
+    gap: 1vw;
+    padding: 15px 0;  
+    justify-content: center;
+    align-items: center;
+} 
+
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-size: auto;
+    margin-left: 39.1%; 
+    color: white;
+    background-color: blueviolet;
+    padding: 50px 50px 50px 120px;
+} 
+
+.letsdo{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 24%;
+    margin-bottom: 340px;
+    padding-top: 15px;
+} 
+
+.form{ 
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px;
+    padding-top: 20px;
+    margin-left: 27%; 
+    margin-top: -340px;
+    padding-bottom: 0px; 
+    /* box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px; */
+      
+} 
+
+form{
+    background-color: #1dc6ff;
+    color: whitesmoke;
+    height: 32.3vh;
+   box-shadow:  rgba(0, 0, 0, 0.45) 0px -25px 26px -20px; 
+   padding-bottom: 30px;
+    
+}
+
+
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    width: 40%;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    opacity: 70%;
+    margin-left: -30px;
+}
+
+footer{
+    margin-top:15px; 
+    background-color: blueviolet;
+    padding: 1px 545px 150px 0px;
+    margin-left: -98px;
+    margin-bottom: -40px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px -25px 26px -20px; 
+}
+button{
+    padding: 15px 15px;
+    border-radius: 7px;
+    font-size: 1.2rem;
+    margin-left: 27%;
+    color: blueviolet;
+    border: white;
+}
+.account{
+    margin-top: 25px;
+    font-size: 0.76rem;
+    margin-left: 65px;
+    color: white;
+}
+
+a{
+    color: #327a56;
+    text-decoration: none;
+}
