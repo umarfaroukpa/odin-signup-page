@@ -7,7 +7,7 @@
 
 .picture{
     width: 38.62vw;
-    margin-top: -475px;
+    margin-top: -510px;
 } 
 
 .text-1{
@@ -18,8 +18,8 @@
 
 .text-2{
     font-size: 1.0rem;
-    padding-top: 30px;
-    margin-left: -65px;
+    padding-top: 20px;
+    margin-left: -50px;
 }
 
 
@@ -45,7 +45,7 @@
     margin-left: 39.1%; 
     color: white;
     background-color: blueviolet;
-    padding: 50px 50px 120px 120px;
+    padding: 20px 50px 180px 120px;
 } 
 
 .letsdo{
@@ -73,7 +73,7 @@ form{
     color: whitesmoke;
     height: 32.3vh;
    box-shadow:  rgba(0, 0, 0, 0.45) 0px -25px 26px -20px; 
-   padding-bottom: 30px;
+   padding-bottom: 33px;
     
 }
 
@@ -89,7 +89,7 @@ form{
 }
 
 footer{
-    margin-top:-1px; 
+    margin-top:17px; 
     background-color: blueviolet;
     padding: 1px 545px 150px 0px;
     margin-left: -98px;
